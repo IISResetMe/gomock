@@ -1,0 +1,15 @@
+{
+    "Name": "MyFirstSimulator",
+    "Metadata": {
+        "Author": "Mathias R. Jessen"
+    },
+    "Blocks": [
+        {
+            "Module": "file",
+            "Operation": "stat",
+            "Parameters": {
+                "path": "/tmp/file"
+            }
+        }
+    ]
+}
